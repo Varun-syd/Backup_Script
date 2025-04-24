@@ -12,4 +12,4 @@ This script allows you to back up any file or directory with a timestamped `.tar
 ## 🧪 Usage
 
 ```bash
-bash backup.sh /home/mobaxterm/MyDocuments /home/mobaxterm/Backups
+bash backup.sh /home/mobaxterm/MyDocuments /home/mobaxterm/Backups (replace according to backup file location)
