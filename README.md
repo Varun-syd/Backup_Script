@@ -1,7 +1,7 @@
 # Backup_Script
 # 🛡️ Bash Backup Script (Windows-Friendly)
 
-This script allows you to back up any file or directory with a timestamped `.tar.gz` archive, and logs each operation. Works with Git Bash + Windows Task Scheduler.
+This script allows you to back up any file or directory with a timestamped `.tar.gz` archive, and logs each operation. Works with Git Bash + Windows Task Scheduler or Linux OS with cronjob.
 
 ## 📦 Features
 - Backs up any file or folder
